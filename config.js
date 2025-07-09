@@ -8,11 +8,11 @@ global.antitags = true
 
 
 global.Owner = ['93218638257']
-global.OwnerNumber = ['923218638257']
+global.OwnerNumber = ['358453274235']
 global.ownertag = ['923218638257']
 global.BotName = "ALi Jutt"
-global.packname = "Ali bot"
-global.author = "By: M ALi"
+global.packname = "ARTTUR BOT"
+global.author = "By: Arttur"
 global.OwnerName = "ALi"
 global.BotSourceCode = "https://github.com/K0J4/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
