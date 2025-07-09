@@ -13,14 +13,14 @@ global.ownertag = ['923218638257']
 global.BotName = "ALi Jutt"
 global.packname = "ARTTUR BOT"
 global.author = "By: Arttur"
-global.OwnerName = "ALi"
+global.OwnerName = "Arttur"
 global.BotSourceCode = "https://github.com/K0J4/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 
 
-global.prefa = ['+'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['?'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "Punjab , Pakistan"
